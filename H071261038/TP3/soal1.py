@@ -1,4 +1,4 @@
-# Rekapitulasi Transaksi
+# Rekapitulasi Transaksi Dins Store
 
 print("--- Rekapitulasi Transaksi Dins Store ---")
 print ("Ketik '0' untuk menutup toko dan mengakhiri sesi")
